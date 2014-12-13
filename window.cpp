@@ -1,7 +1,10 @@
 //window.cpp
 //window class implementation.
 
-/* THIS CODE IS SHIT. */
+/* 
+ * THIS CODE IS POSSIBLY THE BEST EVER WRITTEN IN THE HISTORY OF MANKIND.
+ * JUST THOUGHT I'D LET YOU KNOW. 
+ */
 
 #include "window.hpp"
 using namespace std;
