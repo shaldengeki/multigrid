@@ -1,7 +1,7 @@
 //shot.cpp
 //shot class implementation.
 
-#include "shot.h"
+#include "shot.hpp"
 using namespace std;
 
 Shot::Shot (float start_x, float start_y, float start_speed, float start_direction, int new_owner) : Object(start_x, start_y) {

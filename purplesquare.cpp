@@ -1,7 +1,7 @@
 //purplesquare.cpp
 //purple square class implementation.
 
-#include "purplesquare.h"
+#include "purplesquare.hpp"
 using namespace std;
 
 PurpleSquare::PurpleSquare(float start_x, float start_y, float player_x, float player_y) : Enemy(start_x, start_y) {

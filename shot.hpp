@@ -4,12 +4,12 @@
 #ifndef SHOT_H
 #define SHOT_H
 
-#include "object.h"
-#include "pinwheel.h"
-#include "diamond.h"
-#include "greensquare.h"
-#include "purplesquare.h"
-#include "purplesquare2.h"
+#include "object.hpp"
+#include "pinwheel.hpp"
+#include "diamond.hpp"
+#include "greensquare.hpp"
+#include "purplesquare.hpp"
+#include "purplesquare2.hpp"
 #include <windows.h>
 #include <gl\gl.h>
 #include <gl\glu.h>

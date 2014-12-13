@@ -4,7 +4,7 @@
 #ifndef DIAMOND_H
 #define DIAMOND_H
 
-#include "enemy.h"
+#include "enemy.hpp"
 #include <windows.h>
 #include <gl\gl.h>
 #include <gl\glu.h>

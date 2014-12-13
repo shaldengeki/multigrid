@@ -1,7 +1,7 @@
 //greensquare.cpp
 //green square enemy class implementation.
 
-#include "greensquare.h"
+#include "greensquare.hpp"
 using namespace std;
 
 GreenSquare::GreenSquare(float start_x, float start_y, float player_x, float player_y) : Enemy(start_x, start_y) {

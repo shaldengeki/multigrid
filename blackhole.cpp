@@ -1,7 +1,7 @@
 //blackhole.cpp
 //black hole class implementation.
 
-#include "blackhole.h"
+#include "blackhole.hpp"
 using namespace std;
 
 BlackHole::BlackHole(float start_x, float start_y, float start_speed, float start_direction) : Enemy(start_x, start_y) {

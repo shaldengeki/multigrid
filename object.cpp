@@ -1,7 +1,7 @@
 //object.cpp
 //object class implementation.
 
-#include "object.h"
+#include "object.hpp"
 using namespace std;
 
 Object::Object(float start_x, float start_y) {

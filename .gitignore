@@ -47,3 +47,12 @@ Temporary Items
 *.o
 releases
 *.exe
+
+# sublime
+*.sublime-workspace
+*.sublime-project
+
+# netbeans
+build
+nbproject
+.dep.inc

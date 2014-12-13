@@ -1,7 +1,7 @@
 //pinwheel.cpp
 //pinwheel class implementation.
 
-#include "pinwheel.h"
+#include "pinwheel.hpp"
 using namespace std;
 
 Pinwheel::Pinwheel(float start_x, float start_y) : Enemy(start_x, start_y) {

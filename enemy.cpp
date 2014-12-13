@@ -1,7 +1,7 @@
 //enemy.cpp
 //enemy class implementation.
 
-#include "enemy.h"
+#include "enemy.hpp"
 using namespace std;
 
 Enemy::Enemy(float start_x, float start_y) : Object(start_x, start_y) {

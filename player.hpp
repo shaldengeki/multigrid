@@ -10,7 +10,7 @@
 #include <gl\glu.h>
 #include <cmath>
 #include <math.h>
-#include "shot.h"
+#include "shot.hpp"
 using namespace std;
 
 class Player {

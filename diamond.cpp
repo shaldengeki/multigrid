@@ -1,7 +1,7 @@
 //diamond.cpp
 //blue diamond enemy class implementation.
 
-#include "diamond.h"
+#include "diamond.hpp"
 using namespace std;
 
 Diamond::Diamond(float start_x, float start_y, float player_x, float player_y) : Enemy(start_x, start_y) {

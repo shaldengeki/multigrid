@@ -4,9 +4,9 @@
 #ifndef PURPLESQUARE_H
 #define PURPLESQUARE_H
 
-#include "enemy.h"
-#include "purplesquare2.h"
-#include "player.h"
+#include "enemy.hpp"
+#include "purplesquare2.hpp"
+#include "player.hpp"
 #include <windows.h>
 #include <gl\gl.h>
 #include <gl\glu.h>

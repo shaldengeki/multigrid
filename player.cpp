@@ -1,6 +1,6 @@
 //implementation for player class.
 
-#include "player.h"
+#include "player.hpp"
 using namespace std;
 
 Player::Player() {

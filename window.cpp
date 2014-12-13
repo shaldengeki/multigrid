@@ -3,7 +3,7 @@
 
 /* THIS CODE IS SHIT. */
 
-#include "window.h"
+#include "window.hpp"
 using namespace std;
 
 Window::Window() {

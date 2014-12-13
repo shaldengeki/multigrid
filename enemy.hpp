@@ -4,7 +4,7 @@
 #ifndef ENEMY_H
 #define ENEMY_H
 
-#include "object.h"
+#include "object.hpp"
 #include <vector>
 #include <cmath>
 using namespace std;

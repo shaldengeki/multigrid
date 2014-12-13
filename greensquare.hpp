@@ -4,8 +4,8 @@
 #ifndef GREENSQUARE_H
 #define GREENSQUARE_H
 
-#include "enemy.h"
-#include "shot.h"
+#include "enemy.hpp"
+#include "shot.hpp"
 #include <windows.h>
 #include <gl\gl.h>
 #include <gl\glu.h>
