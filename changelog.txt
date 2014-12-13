@@ -1,0 +1,21 @@
+//changes in v0.0.8
+
+
+what's next:
+       Begin auto-spawn for enemies
+       A menu screen! (?)
+       Rotation of icons!
+       More enemy implementation!
+       Prettier backgrounds!
+       
+       tune in next time!
+       
+PLACES TO CHANGE WHENEVER ENEMIES ARE MODIFIED/ADDED
+       main.cpp
+               KillPlayer
+               initial list of enemies
+               DrawGlScene
+               list of enemy check collisions
+               CheckSafeSpawn
+       shot.cpp
+               yeah
