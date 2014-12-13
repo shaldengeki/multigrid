@@ -1,7 +1,7 @@
 //window.cpp
 //window class implementation.
 
-/* THIS CODE IS SHIT. */
+/* THIS CODE IS the best ever. */
 
 #include "window.hpp"
 using namespace std;
