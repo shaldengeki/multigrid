@@ -1,8 +1,8 @@
-//shot.h
+//shot.hpp
 //shot class declaration.
 
-#ifndef SHOT_H
-#define SHOT_H
+#ifndef SHOT_HPP
+#define SHOT_HPP
 
 #include "object.hpp"
 #include "pinwheel.hpp"

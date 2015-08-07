@@ -1,8 +1,8 @@
-//greensquare.h
+//greensquare.hpp
 //green square class declaration.
 
-#ifndef GREENSQUARE_H
-#define GREENSQUARE_H
+#ifndef GREENSQUARE_HPP
+#define GREENSQUARE_HPP
 
 #include "enemy.hpp"
 #include "shot.hpp"

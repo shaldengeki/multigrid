@@ -1,8 +1,8 @@
-//purplesquare2.h
+//purplesquare2.hpp
 //smallpurple square class declaration.
 
-#ifndef PURPLESQUARE2_H
-#define PURPLESQUARE2_H
+#ifndef PURPLESQUARE2_HPP
+#define PURPLESQUARE2_HPP
 
 #include "enemy.hpp"
 #include <windows.h>

@@ -1,4 +1,3 @@
-//multigrid.
 #undef MMNOTIMER
 
 #include <cstdlib>
@@ -585,7 +584,7 @@ int WINAPI WinMain( HINSTANCE hInstance,
           break;
         case 1 :
           //single player start.
-          while(TimerGetTime() < start + float(steps[adjust] * 2.0f)) {
+          while (TimerGetTime() < start + float(steps[adjust] * 2.0f)) {
              // Waste cycles On fast systems
           }
           ct++;

@@ -1,8 +1,8 @@
-//pinwheel.h
+//pinwheel.hpp
 //pinwheel enemy class declaration
 
-#ifndef PINWHEEL_H
-#define PINWHEEL_H
+#ifndef PINWHEEL_HPP
+#define PINWHEEL_HPP
 
 #include "enemy.hpp"
 #include <windows.h>

@@ -1,8 +1,8 @@
-//enemy.h
+//enemy.hpp
 //enemy class definition
 
-#ifndef ENEMY_H
-#define ENEMY_H
+#ifndef ENEMY_HPP
+#define ENEMY_HPP
 
 #include "object.hpp"
 #include <vector>

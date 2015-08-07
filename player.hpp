@@ -1,8 +1,8 @@
-//player.h
+//player.hpp
 //player class definition
 
-#ifndef PLAYER_H
-#define PLAYER_H
+#ifndef PLAYER_HPP
+#define PLAYER_HPP
 
 #include <string>
 #include <windows.h>
